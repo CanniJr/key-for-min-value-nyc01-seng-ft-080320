@@ -10,8 +10,7 @@ def key_for_min_value(name_hash)
     elsif smallest_value > value
     answer = key
     smallest_value = value
-      
-  
+    
     end
   end
   smallest_value
