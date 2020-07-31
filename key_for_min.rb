@@ -6,4 +6,5 @@ def key_for_min_value(name_hash)
     if name_hash[key][value] < name_hash[key][value]
       puts "#{key}"
     end
+  end
 end
